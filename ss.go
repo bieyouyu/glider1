@@ -6,7 +6,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/shadowsocks/go-shadowsocks2/core"
+	"github.com/bieyouyu/go-shadowsocks2/core"
 )
 
 // Shadowsocks
